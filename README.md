@@ -2,9 +2,20 @@
 
 The goal of this exercise is to practice React Router.
 
-In this exercise you are given a simple React application that displays a list of products and a single product. Your task is to add routing to the application so that the user can navigate between the list of products and the single product view.
+In this exercise you are given a simple React application that displays a list of products, a detailed view of single product and a shopping cart view. Your task is to add routing to the application so that the user can navigate between the views.
 
 You are given the basic react components and the data that is used in the application. You should not need to modify the existing components beyond adding routing to the application.
+
+## Example images
+Here is how the application should look like when finished.
+> ProductsView rendering a list of the products and top menu offering router links to Products and Cart.
+> ![View 1](./doc_images/view1.png)
+
+> ProductDetailsView rendering information of a single product. Top menu same as previously. Back to Products (typo in image as Home) link offering route to get back to previous view.
+> ![View 2](./doc_images/view2.png)
+
+> CartView rendering static shopping cart content. Top menu same as previously.
+> ![View 3](./doc_images/view3.png)
 
 ## Application Structure
 
